@@ -1,0 +1,1 @@
+public const string StorageConnection = "DefaultEndpointsProtocol=https;AccountName=cdisstorage;AccountKey=foZcPSwzokNWVB58jXJJlghEoJBq7cctRivpe5DZDjCXpMei3Kj9by2+1RvCF1p60y7l13ID08EnNHl2/oD6Fw==;EndpointSuffix=core.windows.net";

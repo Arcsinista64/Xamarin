@@ -1,0 +1,26 @@
+[
+    {
+        "Name": "Metalsa",
+        "ImageUrl": "CDIS.Images.metalsa.png",
+        "CompletionDate": "10-10-2016",
+        "RequiredEmployees": "15"
+    },
+    {
+        "Name": "Key",
+        "ImageUrl": "CDIS.Images.key.png",
+        "CompletionDate": "08-08-2017",
+        "RequiredEmployees": "10"
+    },
+    {
+        "Name": "Odessa",
+        "ImageUrl": "CDIS.Images.odessa.png",
+        "CompletionDate": "08-08-2019",
+        "RequiredEmployees": "20"
+    },
+    {
+        "Name": "Banregio",
+        "ImageUrl": "CDIS.Images.banregio.png",
+        "CompletionDate": "10-10-2019",
+        "RequiredEmployees": "40"
+    }
+]
